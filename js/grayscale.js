@@ -41,7 +41,7 @@ google.maps.event.addDomListener(window, 'load', init);
 
 function init() {
 
-    var myLatLng = new google.maps.LatLng(43.6141197, -116.2011396); // Trailhead in Downtown Boise
+    var myLatLng = new google.maps.LatLng(43.614119, -116.198929); // Trailhead in Downtown Boise
 
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
