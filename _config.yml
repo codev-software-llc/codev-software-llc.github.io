@@ -1,7 +1,7 @@
 # Site settings
 title: Codev Software, LLC
 email: contact@codev.net
-url: http://codev.net
+url: https://codev.net
 description: "Codev Software, LLC, Boise, Full-stack web-app development."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -15,8 +15,6 @@ footer: Codev Software, LLC
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: bitbucket
-    url: https://bitbucket.org/codev-software-llc/
   - title: github
     url: https://github.com/codev-software-llc/
 
